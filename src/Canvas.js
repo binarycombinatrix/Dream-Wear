@@ -51,5 +51,5 @@ function Shirt(props) {
   )
 }
 
-useGLTF.preload('/shirt_baked_collapsed.glb')
+useGLTF.preload('/Dream-Wear/shirt_baked_collapsed.glb')
 ;['/Dream-Wear/react.png', '/Dream-Wear/three2.png', '/Dream-Wear/pmndrs.png'].forEach(useTexture.preload)

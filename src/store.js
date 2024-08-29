@@ -5,7 +5,7 @@ const state = proxy({
   colors: ['#ccc', '#EFBD4E', '#80C670', '#726DE8', '#EF674E', '#353934'],
   decals: ['/Dream-Wear/react', '/Dream-Wear/three2', '/Dream-Wear/pmndrs'],
   color: '#EFBD4E',
-  decal: 'three2'
+  decal: '/Dream-Wear/three2'
 })
 
 export { state }

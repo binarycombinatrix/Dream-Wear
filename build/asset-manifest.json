@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Dream-Wear/static/css/main.f6f8b01c.css",
-    "main.js": "/Dream-Wear/static/js/main.e4f683a9.js",
+    "main.js": "/Dream-Wear/static/js/main.ceb63c01.js",
     "index.html": "/Dream-Wear/index.html",
     "main.f6f8b01c.css.map": "/Dream-Wear/static/css/main.f6f8b01c.css.map",
-    "main.e4f683a9.js.map": "/Dream-Wear/static/js/main.e4f683a9.js.map"
+    "main.ceb63c01.js.map": "/Dream-Wear/static/js/main.ceb63c01.js.map"
   },
   "entrypoints": [
     "static/css/main.f6f8b01c.css",
-    "static/js/main.e4f683a9.js"
+    "static/js/main.ceb63c01.js"
   ]
 }
