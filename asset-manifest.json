@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dream-Wear/static/css/main.f6f8b01c.css",
+    "main.js": "/Dream-Wear/static/js/main.54ab7f75.js",
+    "index.html": "/Dream-Wear/index.html",
+    "main.f6f8b01c.css.map": "/Dream-Wear/static/css/main.f6f8b01c.css.map",
+    "main.54ab7f75.js.map": "/Dream-Wear/static/js/main.54ab7f75.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6f8b01c.css",
+    "static/js/main.54ab7f75.js"
+  ]
+}
