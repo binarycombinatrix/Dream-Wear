@@ -41,7 +41,7 @@ function CameraRig({ children }) {
 
 function Shirt(props) {
   const snap = useSnapshot(state)
-  const texture = useTexture(`/${snap.decal}.png`)
+  const texture = useTexture(`${snap.decal}.png`)
   const { nodes, materials } = useGLTF('/Dream-Wear/shirt_baked_collapsed.glb')
   useFrame((state, delta) => easing.dampC(materials.lambert1.color, snap.color, 0.25, delta))
   return (
