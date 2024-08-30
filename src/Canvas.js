@@ -41,12 +41,12 @@ function CameraRig({ children }) {
 
 function Shirt(props) {
   const snap = useSnapshot(state)
-  const texture = useTexture(`${snap.decal}.png`)
+  const texture = useTexture(`${snap.decal}`)
   const { nodes, materials } = useGLTF('/Dream-Wear/shirt_baked_collapsed.glb')
   useFrame((state, delta) => easing.dampC(materials.lambert1.color, snap.color, 0.25, delta))
   return (
     <mesh castShadow geometry={nodes.T_Shirt_male.geometry} material={materials.lambert1} material-roughness={1} {...props} dispose={null}>
-      <Decal position={[0, 0.04, 0.15]} rotation={[0, 0, 0]} scale={0.15} map={texture} map-anisotropy={16} />
+      <Decal position={[0, -0.06, 0.15]} rotation={[0, 0, 0]} scale={[0.28, 0.45, 1]} map={texture} map-anisotropy={16} />
     </mesh>
   )
 }
