@@ -1,13 +1,19 @@
 {
   "files": {
-    "main.css": "/Dream-Wear/static/css/main.f6f8b01c.css",
-    "main.js": "/Dream-Wear/static/js/main.a08de316.js",
+    "main.css": "/Dream-Wear/static/css/main.b32a23b3.css",
+    "main.js": "/Dream-Wear/static/js/main.584afc3d.js",
+    "static/js/584.250cc5a0.chunk.js": "/Dream-Wear/static/js/584.250cc5a0.chunk.js",
+    "static/js/316.1e3db515.chunk.js": "/Dream-Wear/static/js/316.1e3db515.chunk.js",
+    "static/js/325.9210ff62.chunk.js": "/Dream-Wear/static/js/325.9210ff62.chunk.js",
+    "static/js/152.0f091743.chunk.js": "/Dream-Wear/static/js/152.0f091743.chunk.js",
     "index.html": "/Dream-Wear/index.html",
-    "main.f6f8b01c.css.map": "/Dream-Wear/static/css/main.f6f8b01c.css.map",
-    "main.a08de316.js.map": "/Dream-Wear/static/js/main.a08de316.js.map"
+    "main.b32a23b3.css.map": "/Dream-Wear/static/css/main.b32a23b3.css.map",
+    "main.584afc3d.js.map": "/Dream-Wear/static/js/main.584afc3d.js.map",
+    "316.1e3db515.chunk.js.map": "/Dream-Wear/static/js/316.1e3db515.chunk.js.map",
+    "152.0f091743.chunk.js.map": "/Dream-Wear/static/js/152.0f091743.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f6f8b01c.css",
-    "static/js/main.a08de316.js"
+    "static/css/main.b32a23b3.css",
+    "static/js/main.584afc3d.js"
   ]
 }
