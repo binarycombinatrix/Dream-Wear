@@ -1,0 +1,1 @@
+(self.webpackChunkt_shirt_configurator=self.webpackChunkt_shirt_configurator||[]).push([[584],{4584:()=>{}}]);
