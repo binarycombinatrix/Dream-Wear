@@ -130,7 +130,7 @@ function Customizer() {
     <>
       {showLoader && (
         <div className="loader">
-          <img src="Dream-Wear/loader.gif" alt="Loading" />
+          <img src="/Dream-Wear/loader.gif" alt="Loading" />
         </div>
       )}
       <div className="customizer">
